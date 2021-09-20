@@ -1,0 +1,19 @@
+{
+	"manifest_version": 2,
+	"name": "Roman-Numerals-2021",
+	"version": "1.0",
+	"author": "Nangebav",
+	"description": "Creando una extensión",
+	"permissions": ["storage", "activeTab", "scripting"],
+	"icons": {
+		"16": "logo_small_icon_only_inverted.png",
+		"48": "logo_large.png",
+		"128": "logo_small.png"
+	},
+	"browser_action": {
+		"default_icon": "logo_small_icon_only_inverted.png",
+		"default_title": "RN EXTENSION",
+		"default_popup": "mensaje.html"
+
+	}
+}

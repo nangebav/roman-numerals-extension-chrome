@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "roman-numerals": "github:nangebav/roman-numerals-extension-chrome"
+  },
+  "name": "roman-extension-chrome-chrome",
+  "version": "1.0.0",
+  "main": "popup.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laboratoria/roman-numerals-extension-chrome.git"
+  },
+  "author": "nangebav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laboratoria/roman-numerals-extension-chrome/issues"
+  },
+  "homepage": "https://github.com/Laboratoria/roman-numerals-extension-chrome#readme",
+  "description": ""
+}
